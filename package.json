@@ -1,0 +1,14 @@
+{
+  "name": "asg-nat",
+  "version": "0.1.0",
+  "description": "Basic NAT instance construct provisioned via auto-scaling group",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Ian Zylstra",
+  "license": "MIT",
+  "dependencies": {
+    "aws-cdk-lib": "^2.138.0"
+  }
+}
